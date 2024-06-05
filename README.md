@@ -39,24 +39,32 @@ python page1.py
 
 ![借阅表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E5%80%9F%E9%98%85%E8%A1%A8.png)<div align=center><br>
 借阅表<br>
+<br>
 ![学生表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E5%AD%A6%E7%94%9F%E8%A1%A8.png)<br>
 学生表<br>
+<br>
 ![管理员表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%AE%A1%E7%90%86%E5%91%98%E8%A1%A8.png)<br>
 管理员表<br>
+<br>
 ![书籍表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%B9%A6%E7%B1%8D%E8%A1%A8.png)<br>
 书籍表<br>
+<br>
 ![数据库内容](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%86%85%E5%AE%B9.png)<br>
 数据库内容<br>
+<br>
 
 管理员待定表、用户待定表结构和管理员表、用户表相同<br>
 
 ### 前端设计
 ![管理员、用户登录界面框架](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%AE%A1%E7%90%86%E5%91%98%E3%80%81%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%E6%A1%86%E6%9E%B6.png)<br>
 管理员、用户登录界面框架<br>
+<br>
 ![管理员操作框架图](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%AE%A1%E7%90%86%E5%91%98%E6%93%8D%E4%BD%9C%E6%A1%86%E6%9E%B6%E5%9B%BE.png)<br>
 管理员操作框架图<br>
+<br>
 ![用户操作框架](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%A1%86%E6%9E%B6.png)<br>
 用户操作框架<br>
+<br>
 ![用户借阅界面](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%94%A8%E6%88%B7%E5%80%9F%E9%98%85%E7%95%8C%E9%9D%A2.png)<br>
 用户借阅界面<br>
 
@@ -68,21 +76,27 @@ python page1.py
 ### 主要功能简述
 ![主要功能](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%B8%BB%E8%A6%81%E5%8A%9F%E8%83%BD.png)<br>
 主要功能<br>
+<br>
 ![添加书籍界面](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E6%B7%BB%E5%8A%A0%E4%B9%A6%E7%B1%8D%E7%95%8C%E9%9D%A2.png)<br>
 添加书籍界面<br>
+<br>
 ![修改书籍信息（或者删除）界面](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%BF%AE%E6%94%B9%E4%B9%A6%E7%B1%8D%E4%BF%A1%E6%81%AF%E7%95%8C%E9%9D%A2.png)<br>
 修改书籍信息（或者删除）界面<br>
+<br>
 ![管理员申请、审核流程](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%AE%A1%E7%90%86%E5%91%98%E7%94%B3%E8%AF%B7%E3%80%81%E5%AE%A1%E6%A0%B8%E6%B5%81%E7%A8%8B.png)<br>
 管理员申请、审核流程<br>
+<br>
 ![借阅书籍界面](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E5%80%9F%E9%98%85%E4%B9%A6%E7%B1%8D%E7%95%8C%E9%9D%A2.png)<br>
-
+<br>
 批量导入数据<br>
 ![Excel数据存储格式](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/Excel%E6%95%B0%E6%8D%AE%E8%A1%A8%E6%A0%BC%E5%AD%98%E5%82%A8%E6%A0%BC%E5%BC%8F.png)<br>
+<br>
+
+借阅书籍界面
+![书籍归还操作](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%B9%A6%E7%B1%8D%E5%BD%92%E8%BF%98%E6%93%8D%E4%BD%9C.png)
 
 功能展示：
 ```
 python read.py
 ```
 
-借阅书籍界面
-![书籍归还操作](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%B9%A6%E7%B1%8D%E5%BD%92%E8%BF%98%E6%93%8D%E4%BD%9C.png)
