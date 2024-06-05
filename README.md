@@ -5,8 +5,31 @@
 MYSQL、Python 3.8、Qt Designer
 程序建议运行在Windows 10 系统
 
+## 建造本地数据库内容
+环境准备：
+```
+pip install -r requirements.txt
+```
+具体数据库用户名、密码根据情况设定
+```
+db = pymysql.connect(host='localhost',
+port=3306,
+user='root',
+passwd='123456',
+charset='utf8')
+```
+建立database和需要的table等
+```
+python construct.py
+```
+
 ## 项目执行
 ### 后端测试项目
 ```
 python main.py
-
+```
+### 综合系统运行测试
+```
+cd ui
+python page1.py
+```
