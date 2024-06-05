@@ -92,9 +92,6 @@ python page1.py
 ![Excel数据存储格式](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/Excel%E6%95%B0%E6%8D%AE%E8%A1%A8%E6%A0%BC%E5%AD%98%E5%82%A8%E6%A0%BC%E5%BC%8F.png)<br>
 <br>
 
-借阅书籍界面
-![书籍归还操作](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%B9%A6%E7%B1%8D%E5%BD%92%E8%BF%98%E6%93%8D%E4%BD%9C.png)
-
 功能展示：
 ```
 python read.py
