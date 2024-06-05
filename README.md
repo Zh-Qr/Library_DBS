@@ -36,7 +36,11 @@ python page1.py
 
 ## 项目介绍
 ### 数据库结构
+<div align=center>
 ![借阅表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E5%80%9F%E9%98%85%E8%A1%A8.png)
+借阅表
+</div>
+
 ![学生表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E5%AD%A6%E7%94%9F%E8%A1%A8.png)
 ![管理员表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E7%AE%A1%E7%90%86%E5%91%98%E8%A1%A8.png)
 ![书籍表](https://github.com/Zh-Qr/Library_DBS/blob/main/%E5%9B%BE%E7%89%87/%E4%B9%A6%E7%B1%8D%E8%A1%A8.png)
