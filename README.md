@@ -7,6 +7,6 @@ MYSQL、Python 3.8、Qt Designer
 
 ## 项目执行
 ### 后端测试项目
-"""
+```
 python main.py
-"""
+
