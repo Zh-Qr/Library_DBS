@@ -1,3 +1,5 @@
 pymysql
 PyQt5
 PyQt5-tools
+pandas
+openpyxl
